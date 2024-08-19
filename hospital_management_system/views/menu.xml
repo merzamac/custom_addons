@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <odoo>
 
     <menuitem id="menu_hospital_root"
@@ -10,7 +10,7 @@
               parent="menu_hospital_root"
     />
     <menuitem id="menu_patients"
-              name="Front Patients"
+              name="Patients"
               parent="menu_frontdesk"
               action="action_hospital_patient"
 
